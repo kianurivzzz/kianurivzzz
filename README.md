@@ -1,13 +1,13 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/x0B9FHAksMPlSHRlYE/giphy.gif" alt="cat" width="100">
     <div id="bages">
-        <a href="https://vk.com/nechaaaaaika">
+        <a href="https://vk.com/nechaaaaaika" target="_blank">
             <img src="https://vk.company/career/static/corp_redesign/img/cover%20VK.png" width="100" height="50" alt="vk">
         </a>
-        <a href="https://hh.ru/resume/b3534b22ff08a30b430039ed1f614f6b646568">
+        <a href="https://hh.ru/resume/b3534b22ff08a30b430039ed1f614f6b646568" target="_blank">
             <img src="https://papik.pro/uploads/posts/2022-01/thumbs/1643610837_29-papik-pro-p-hh-logotip-33.png" width="100" height="50" alt="headhunter">
         </a>
-        <a href="https://t.me/Nikita_Karasyov">
+        <a href="https://t.me/Nikita_Karasyov" target="_blank">
             <img src="https://png.monster/wp-content/uploads/2022/03/png.monster-257.png" width="100" height="50" alt="">
         </a>
     </div>
@@ -47,10 +47,10 @@ My name is Nikita. I`m full-stack Python developer and penetration tester. My re
 ### :arrow_down: My LeetCode and CodeWars accounts:
 
 <p>Codewars</p>
-<a href="https://www.codewars.com/users/kianurivzzz">
+<a href="https://www.codewars.com/users/kianurivzzz" target="_blank">
     <img src="https://docs.codewars.com/logo.svg" width="50" height="50" alt="headhunter">
 </a>
 <p>Leetcode</p>
-<a href="https://leetcode.com/kianurivzzz/">
+<a href="https://leetcode.com/kianurivzzz/" target="_blank">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50" height="50" alt="">
 </a>
