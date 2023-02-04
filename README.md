@@ -46,7 +46,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="webdriver" alt="webdriver" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsc" alt="vsc" width="40" height="40">&nbsp;
 </div>
 
 ---
