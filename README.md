@@ -34,6 +34,19 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="bubuntu" alt="bubuntu" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="fedora" alt="fedora" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="google" alt="google" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="heroku" alt="heroku" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javasrcript" alt="javascript" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="sqlserver" alt="sqlserver" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="webdriver" alt="webdriver" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsc" alt="vsc" width="40" height="40">&nbsp;
 </div>
 
 ---
