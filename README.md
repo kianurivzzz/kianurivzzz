@@ -38,8 +38,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="fedora" alt="fedora" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="google" alt="google" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="heroku" alt="heroku" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" alt="google" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="heroku" alt="heroku" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javasrcript" alt="javascript" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="sqlserver" alt="sqlserver" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40">&nbsp;
