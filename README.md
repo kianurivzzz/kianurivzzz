@@ -62,8 +62,9 @@ My name is Nikita. I`m full-stack Python developer and penetration tester. My re
 <a href="https://www.codewars.com/users/kianurivzzz">
     <img src="https://docs.codewars.com/logo.svg" width="50" height="50" alt="headhunter">
 </a>
+     <img src="https://www.codewars.com/users/kianurivzzz/badges/large" alt="">
 <p>Leetcode</p>
 <a href="https://leetcode.com/kianurivzzz/">
     <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50" height="50" alt="">
 </a>
-    <img src="https://www.codewars.com/users/kianurivzzz/badges/large" alt="">
+   
