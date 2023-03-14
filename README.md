@@ -8,7 +8,7 @@
             <img src="https://papik.pro/uploads/posts/2022-01/thumbs/1643610837_29-papik-pro-p-hh-logotip-33.png" width="100" height="50" alt="headhunter">
         </a>
         <a href="https://t.me/Nikita_Karasyov">
-            <img src="https://png.monster/wp-content/uploads/2022/03/png.monster-257.png" width="100" height="50" alt="">
+            <img src="https://media.tproger.ru/uploads/2022/12/3165223_paper-plane_send_telegram_icon-cover-2.png" width="100" height="50" alt="">
         </a>
     </div>
 </div>
