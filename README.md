@@ -53,7 +53,7 @@
 
 ### :man_technologist: About me:
 
-My name is Nikita. I`m full-stack Python developer and penetration tester. <a href="http://kianurivzzz.pythonanywhere.com/">My portfolio</a>. My resume is available above by clicking on the HeadHunter icon
+My name is Nikita. I`m full-stack Python developer and penetration tester. My resume is available above by clicking on the HeadHunter icon. <a href="http://kianurivzzz.pythonanywhere.com/">My portfolio</a>
 
 ---
 
