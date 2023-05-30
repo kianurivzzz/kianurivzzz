@@ -47,6 +47,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="webdriver" alt="webdriver" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
 </div>
 
 ---
