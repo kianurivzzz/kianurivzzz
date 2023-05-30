@@ -51,6 +51,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
 </div>
 
 ---
