@@ -58,7 +58,7 @@
 
 ### :man_technologist: About me:
 
-My name is Nikita. I`m full-stack Python developer and penetration tester. My resume is available above by clicking on the HeadHunter icon. <a href="https://nkarasyov.vercel.app/">Аnd this is my portfolio</a>
+My name is Nikita. I`m full-stack Python developer and penetration tester. My resume is available above by clicking on the HeadHunter icon. <a href="https://nkarasyov.ru">Аnd this is my portfolio</a>
 
 ---
 
