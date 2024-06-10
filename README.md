@@ -7,7 +7,7 @@
         <a href="https://spb.hh.ru/resume/8d2fe699ff0b2c7d070039ed1f476950567931" target="_blank">
             <img src="https://papik.pro/uploads/posts/2022-01/thumbs/1643610837_29-papik-pro-p-hh-logotip-33.png" width="100" height="50" alt="headhunter">
         </a>
-        <a href="https://t.me/Nikita_Karasyov">
+        <a href="https://t.me/nkarasyov">
             <img src="https://media.tproger.ru/uploads/2022/12/3165223_paper-plane_send_telegram_icon-cover-2.png" width="100" height="50" alt="">
         </a>
     </div>
