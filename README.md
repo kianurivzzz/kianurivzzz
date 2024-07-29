@@ -1,9 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/x0B9FHAksMPlSHRlYE/giphy.gif" alt="cat" width="100">
     <div id="bages">
-        <a href="https://vk.com/nechaaaaaika">
-            <img src="https://vk.company/career/static/corp_redesign/img/cover%20VK.png" width="100" height="50" alt="vk">
-        </a>
         <a href="https://spb.hh.ru/resume/8d2fe699ff0b2c7d070039ed1f476950567931" target="_blank">
             <img src="https://papik.pro/uploads/posts/2022-01/thumbs/1643610837_29-papik-pro-p-hh-logotip-33.png" width="100" height="50" alt="headhunter">
         </a>
