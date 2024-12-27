@@ -9,8 +9,6 @@
             <img src="https://media.tproger.ru/uploads/2022/12/3165223_paper-plane_send_telegram_icon-cover-2.png" width="100" height="50" alt="telegram">
         </a>
     </div>
-    
-    ![Profile views](https://komarev.com/ghpvc/?username=your_username)
 </div>
 
 ---
@@ -24,65 +22,55 @@ I'm a Full-Stack Python Developer and Penetration Tester with expertise in:
 
 ---
 
-### 🛠 Technical Stack:
-
-#### Languages:
-- Python (Django, Flask)
-- JavaScript/TypeScript
-- Go
-- HTML/CSS
-
-#### Databases:
-- PostgreSQL
-- MySQL
-- SQLite
-- MS SQL Server
-- Oracle
-
-#### DevOps & Tools:
-- Docker
-- Git
-- Linux (Ubuntu, Debian, Fedora)
-- Nginx/Apache
-- CI/CD
-
-#### Security Tools:
-- Penetration Testing Tools
-- Security Scanning
-- Vulnerability Assessment
-
----
-
-### 📊 GitHub Statistics:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
-
----
-
-### 🏆 Coding Profiles:
-
-<div align="center">
-    <h4>Codewars:</h4>
-    <a href="https://www.codewars.com/users/kianurivzzz">
-        <img src="https://docs.codewars.com/logo.svg" width="50" height="50" alt="codewars">
-    </a>
-    <img src="https://www.codewars.com/users/kianurivzzz/badges/large" alt="codewars stats">
-    
-    <h4>LeetCode:</h4>
-    <a href="https://leetcode.com/kianurivzzz/">
-        <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50" height="50" alt="leetcode">
-    </a>
+### :hammer_and_wrench: Languages and Tools:
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="conda" alt="conda" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="bubuntu" alt="bubuntu" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="photoshop" alt="photoshop" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-plain.svg" title="fedora" alt="fedora" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" alt="google" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="heroku" alt="heroku" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javasrcript" alt="javascript" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="sqlserver" alt="sqlserver" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="webdriver" alt="webdriver" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="apache" alt="apache" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40">&nbsp;
 </div>
 
 ---
 
-### 🚀 Current Projects:
-1. [Project Name](link) - Brief description
-2. [Project Name](link) - Brief description
+### :arrow_down: My LeetCode and CodeWars accounts:
 
----
-
-### 📫 Connect With Me:
-- 💼 [HeadHunter Resume](https://spb.hh.ru/resume/8d2fe699ff0b2c7d070039ed1f476950567931)
-- 🌐 [Portfolio Website](https://nkarasyov.ru)
-- 📱 [Telegram](https://t.me/nkarasyov)
+<p>Codewars</p>
+<a href="https://www.codewars.com/users/kianurivzzz">
+    <img src="https://docs.codewars.com/logo.svg" width="50" height="50" alt="headhunter">
+</a>
+<img src="https://www.codewars.com/users/kianurivzzz/badges/large" alt="">
+<p>Leetcode</p>
+<a href="https://leetcode.com/kianurivzzz/">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="50" height="50" alt="">
+</a>
