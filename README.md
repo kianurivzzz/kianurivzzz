@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me:
 I'm a Full-Stack Python Developer and Penetration Tester with expertise in:
 - 🔭 Building secure and scalable web applications
-- 🌱 Currently learning advanced cybersecurity techniques
+- 🌱 Currently running my own web studio
 - 💼 Open for collaboration on interesting projects
 - 📫 How to reach me: [Portfolio](https://nkarasyov.ru)
 
