@@ -79,6 +79,7 @@ I'm a Full-Stack Developer, teacher and tech manager with expertise in:
 - 📧 [Email](mailto:hello@nkarasyov.ru)
 - 📱 [Telegram](https://t.me/nkarasyov)
 - 🌐 [Personal Website](https://nkarasyov.ru)
+- 🧑‍💻 [Habr Career](https://career.habr.com/nikarasyov)
 - 💼 [HeadHunter](https://spb.hh.ru/resume/8d2fe699ff0b2c7d070039ed1f476950567931)
 
 ---
