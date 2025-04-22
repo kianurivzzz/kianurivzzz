@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/x0B9FHAksMPlSHRlYE/giphy.gif" alt="cat" width="100">
     <h1>Hi there! 👋 I'm Nikita</h1>
     <div id="badges">
-        <a href="https://spb.hh.ru/resume/8d2fe699ff0b2c7d070039ed1f476950567931" target="_blank">
+        <a href="https://spb.hh.ru/resume/f7c385b4ff0cb5273b0039ed1f717244524644" target="_blank">
             <img src="https://papik.pro/uploads/posts/2022-01/thumbs/1643610837_29-papik-pro-p-hh-logotip-33.png" width="100" height="50" alt="headhunter">
         </a>
         <a href="https://t.me/nkarasyov">
@@ -26,7 +26,6 @@ I'm a Full-Stack Developer, teacher and tech manager with expertise in:
 - 👨‍🏫 Teaching programming to 600+ students
 - 🌐 Successfully launched 50+ commercial projects
 - 📚 Author of educational content about programming
-- 
 ---
 
 ### :hammer_and_wrench: Tech Stack:
