@@ -24,18 +24,9 @@ I'm a Full-Stack Developer, teacher and tech manager with expertise in:
 
 ### 🏆 Achievements & Experience:
 - 👨‍🏫 Teaching programming to 600+ students
-- 💼 Managing development team of 10 people
 - 🌐 Successfully launched 50+ commercial projects
 - 📚 Author of educational content about programming
-
----
-
-### 🏢 My Web Studio:
-- 🌐 [Studio Website](https://webrotech.ru)
-- 💼 Services: Web Development, Design, SEO
-- 👥 Team Size: 10 people
-- 📈 Completed Projects: 50+
-
+- 
 ---
 
 ### :hammer_and_wrench: Tech Stack:
