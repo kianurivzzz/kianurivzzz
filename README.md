@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/x0B9FHAksMPlSHRlYE/giphy.gif" alt="cat" width="100">
     <h1>Hi there! 👋 I'm Nikita</h1>
     <div id="badges">
-        <a href="https://spb.hh.ru/resume/f7c385b4ff0cb5273b0039ed1f717244524644" target="_blank">
+        <a href="https://hh.ru/resume/79e012c6ff0f28f6590039ed1f7a7336475763" target="_blank">
             <img src="https://papik.pro/uploads/posts/2022-01/thumbs/1643610837_29-papik-pro-p-hh-logotip-33.png" width="100" height="50" alt="headhunter">
         </a>
         <a href="https://t.me/nkarasyov">
@@ -32,17 +32,19 @@ I'm a Frontend Developer and teacher with expertise in:
 
 #### Core Technologies:
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" alt="golang" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
 </div>
 
 #### Frameworks & Libraries:
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vue" alt="vue" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40">&nbsp;
 </div>
 
 #### Databases:
@@ -70,7 +72,7 @@ I'm a Frontend Developer and teacher with expertise in:
 - 📱 [Telegram](https://t.me/nkarasyov)
 - 🌐 [Personal Website](https://nkarasyov.ru)
 - 🧑‍💻 [Habr Career](https://career.habr.com/nikarasyov)
-- 💼 [HeadHunter](https://spb.hh.ru/resume/8d2fe699ff0b2c7d070039ed1f476950567931)
+- 💼 [HeadHunter](https://hh.ru/resume/79e012c6ff0f28f6590039ed1f7a7336475763)
 
 ---
 
