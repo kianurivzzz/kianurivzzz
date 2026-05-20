@@ -18,7 +18,7 @@ I'm a Frontend Developer and teacher with expertise in:
 - 🔭 Building secure and scalable web applications
 - 🌱 Currently running my own web studio
 - 💼 Open for collaboration on interesting projects
-- 📫 How to reach me: [Portfolio](https://nkarasyov.ru)
+- 📫 How to reach me: [Portfolio](https://nkarasev.com)
 
 ---
 
@@ -68,9 +68,9 @@ I'm a Frontend Developer and teacher with expertise in:
 ---
 
 ### 📫 Connect With Me:
-- 📧 [Email](mailto:hello@nkarasyov.ru)
+- 📧 [Email](mailto:hi@nkarasev.com)
 - 📱 [Telegram](https://t.me/nkarasyov)
-- 🌐 [Personal Website](https://nkarasyov.ru)
+- 🌐 [Personal Website](https://nkarasev.com)
 - 🧑‍💻 [Habr Career](https://career.habr.com/nikarasyov)
 - 💼 [HeadHunter](https://hh.ru/resume/79e012c6ff0f28f6590039ed1f7a7336475763)
 
